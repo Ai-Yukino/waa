@@ -1,2 +1,5 @@
-from src.owo import msg
-from src.uwu import msg
+from src.owo.msg import owo
+from src.uwu.msg import uwu
+
+owo()
+uwu()

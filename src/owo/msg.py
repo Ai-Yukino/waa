@@ -1,1 +1,2 @@
-print("owo what's this?")
+def owo():
+    print("owo what's this?")
